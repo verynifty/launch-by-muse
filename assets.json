@@ -2,8 +2,15 @@
   {
     "nft_address": "0x339e5d8f40ffe214429bfb96ed43571502ca9955",
     "description": "lorem  asdasdsad ",
-    "websote": "",
+    "website": "",
     "twitter": "@vitalikbutterin",
     "banner": "https://global-uploads.webflow.com/5fad86e2327507cecea2d5e8/6210c5a90a90a740a108c04c_Doodle%20Apes%20NFTs%20on%20BNB%20Chain%20Go%20Live.jpeg"
+  },
+    {
+    "nft_address": "0x5C294AB077452627E0728897d7c06333234497Fa",
+    "description": "PUDGY PENGUINS ARE 8,888 UNIQUE COLLECTIBLE PENGUINS WITH PROOF OF OWNERSHIP STORED ON THE ETHEREUM BLOCKCHAIN.",
+    "website": "https://www.pudgypenguins.com/",
+    "twitter": "https://twitter.com/pudgypenguins",
+    "banner": "blob:https://www.pudgypenguins.com/b080f001-35ad-4402-b2e1-40b12d2064b5"
   }
 ]
