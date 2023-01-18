@@ -12,5 +12,12 @@
     "website": "",
     "twitter": "@crypt0gnome",
     "banner": "https://i.ibb.co/hL8BWF0/Untitled-2.png"
+  },
+  {
+    "nft_address": "0x7660188C6a08f3D4E5Fc4544CedFD2f0Fd7554FB",
+    "description": "The Party Dragons are flying into space! Party Dragons is a fun set of 2,222 NFTs launching on the Muse DAO Launchpad. Created by @Phoud_Art",
+    "website": "",
+    "twitter": "@Party_Dragons",
+    "hidden": true
   }
 ]
