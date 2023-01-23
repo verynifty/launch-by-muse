@@ -24,5 +24,12 @@
     "nft_address": "0xD3fC5A73F2DBbB44f4C30147f771209d2e656fec",
     "description": "Muse Party DAO - 100% NFT sale proceeds used to expand MUSE ecosystem by creating and promoting NFT LP's for popular web3 games.",
     "twitter": "@MUSE_Party_DAO"
+  },
+  {
+    "nft_address": "0xa1436413ad5a84b945881dd48974d2e9dc57d7ab",
+    "description": "The Party Dragons are flying into space! Party Dragons is a fun set of 2,222 NFTs launching on the Muse DAO Launchpad. Created by @Phoud_Art",
+    "website": "",
+    "twitter": "@Party_Dragons",
+    "hidden": false
   }
 ]
