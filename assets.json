@@ -31,5 +31,9 @@
     "website": "",
     "twitter": "@Party_Dragons",
     "hidden": false
+  },
+  {
+    "nft_address": "0xffEc2Eda58Ed9417Ab6DaC7eEc84487D92EaE0D0",
+    "hidden": true
   }
 ]
