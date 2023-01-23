@@ -39,5 +39,9 @@
   {
     "nft_address": "0x3C84E1B6516ffA002181475Ffb3D02Bb092af244",
     "hidden": true
+  },
+  {
+    "nft_address": "0x4821d608dd16Aa6501748331aA8C49a3C196797D",
+    "hidden": "true"
   }
 ]
